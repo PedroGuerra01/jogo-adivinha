@@ -1,2 +1,0 @@
-# jogo-adivinha
-jogo adivinha
